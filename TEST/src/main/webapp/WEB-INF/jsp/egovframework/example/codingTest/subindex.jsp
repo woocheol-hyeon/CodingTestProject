@@ -26,7 +26,7 @@
 						</header>
 						
 						<h2> 회차 번호 입력하기 : <input type="text" class="input_text_1"> 
-							<button class="button special">클릭</button>					
+							<button class="button special small">클릭</button>					
 						</h2>	
 					</section>	
 				</div>

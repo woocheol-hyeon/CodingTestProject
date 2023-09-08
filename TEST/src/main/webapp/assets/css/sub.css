@@ -1,1 +1,1 @@
- .input_text_1 {display: inline-block !important; position: absolute; width : 180px !important;}
+ .input_text_1 {display: inline-block !important; position: static; width : 180px !important;}
